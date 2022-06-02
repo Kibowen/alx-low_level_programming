@@ -3,7 +3,6 @@
 
 
 /**
- *
  * main - entrypoint
  *
  * return: always 0 (success)
