@@ -11,26 +11,26 @@ int main(void)
 
 {
 
-	char acharacter;
+	char letters;
 
-	int ainteger;
+	int numbers;
 
-	long along;
+	long digits;
 
-	long long alonglong;
+	long long hugeDigits;
 
-	float afloat;
+	float decimals;
 
 
-	printf("Size of a char: %lu byte(s)\n", sizeof(acharacter));
+	printf("Size of a char: %lu byte(s)\n", sizeof(letters));
 
-	printf("Size of an int: %lu byte(s)\n", sizeof(ainteger));
+	printf("Size of an int: %lu byte(s)\n", sizeof(numbers));
 
-	printf("Size of a long int: %lu byte(s)\n", sizeof(along));
+	printf("Size of a long int: %lu byte(s)\n", sizeof(digits));
 
-	printf("Size of a long long int: %lu byte(s)\n", sizeof(alonglong));
+	printf("Size of a long long int: %lu byte(s)\n", sizeof(hugeDigits));
 
-	printf("Size of a float: %lu byte(s)\n", sizeof(afloat));
+	printf("Size of a float: %lu byte(s)\n", sizeof(decimals));
 
 	return (0);
 
