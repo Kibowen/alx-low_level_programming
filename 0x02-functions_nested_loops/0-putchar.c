@@ -2,9 +2,9 @@
 #include <stdio.h>
 /**
  * main - entry point
- * 
+ *
  * prints out _putchar followed by a newline.
- * 
+ *
  * return: always (0) success
  */
 
