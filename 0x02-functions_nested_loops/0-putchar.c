@@ -16,7 +16,7 @@ int m;
 for (m = 0; m < 8; m++)
 _putchar(ch);
 
-_putchar(\n);
+_putchar('\n');
 
 return (0);
 }
