@@ -1,5 +1,6 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
+
 /**
  * main - entry point
  *
@@ -10,13 +11,13 @@
 
 int main(void)
 {
-char ch[8] = "_putchar";
-int m;
+	char ch[8] = "_putchar";
+	int m;
 
-for (m = 0; m < 8; m++)
-_putchar(ch);
+	for (m = 0; m < 8; m++)
+		_putchar(ch[m]);
 
-_putchar('\n');
+	_putchar('\n');
 
-return (0);
+	return (0);
 }
