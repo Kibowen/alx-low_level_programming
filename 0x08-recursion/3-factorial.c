@@ -2,14 +2,14 @@
 
 /**
  * factorial - function that prints fuctorials of the number
- * @s: This is given
+ * @n: This is given
  * Return: 0 if successul exit
  */
 
 int factorial(int n)
 {
 {
-if (n == 0) 
+if (n == 0)
 {
 return (1);
 }
