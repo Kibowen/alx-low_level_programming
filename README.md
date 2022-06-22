@@ -1,1 +1,1 @@
-an introduction into C programming.
+an introduction into low level programming
