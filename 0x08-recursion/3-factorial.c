@@ -1,7 +1,22 @@
 #include "main.h"
 
 /**
- * _puts_recursion - function that prints a string
+ * factorial - function that prints fuctorials of the number
  * @s: This is given
  * Return: 0 if successul exit
  */
+
+int factorial(int n)
+{
+{
+if (n == 0) 
+{
+return (1);
+}
+else if (n < 0)
+{
+return (-1);
+}
+return (n * factorial(n - 1));
+}
+}
