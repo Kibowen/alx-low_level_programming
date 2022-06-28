@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * *create_array - creates an array of chars, and initializes it with a char
+ * free_grid - frees a 2d integer grid created by alloc grid.
  * @grid: arrays in the grid
  * @height: row count
  * Return: pointer to array or null
