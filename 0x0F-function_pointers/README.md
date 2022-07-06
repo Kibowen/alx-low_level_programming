@@ -1,0 +1,1 @@
+exploring function of pointers. 
