@@ -11,4 +11,4 @@ the node is declared in structure that call on to itself.
         struct node *link. //this is the where the pointer of the link will be saved. 
     }
 
-> to begin a link, a pointer head pointer has to be decleared so as to save the pointer of the first node, thereafter, the list can be linked and accessed. 
+to begin a link, a pointer head pointer has to be decleared so as to save the pointer of the first node, thereafter, the list can be linked and accessed. 
